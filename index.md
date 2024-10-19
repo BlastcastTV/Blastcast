@@ -8,3 +8,6 @@ We're a television company founded in 2024 by [Secisit](https://secisit.com).
 If you'd like to find out more about what our parent company is doing, you can find out here:
 
 [Noah's Blog](https://secisit.com/blog/noah).
+
+## Legal
+If you'd like to find out more about our policies and Secisit's policies, please click [here](https://secisit.com/legal).
