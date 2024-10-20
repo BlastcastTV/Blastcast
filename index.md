@@ -12,11 +12,13 @@ If you'd like to find out more about what our parent company is doing, you can f
 ## Legal
 If you'd like to find out more about our policies and Secisit's policies, please click [here](https://secisit.com/legal).
 
-## I want to watch Blastcast's content.
-You can watch our content on:
+## Programmes
+You can find out more about our programmes [here](https://blastcast.co.uk/programmes).
 
+## I want to watch Blastcast's content.
+
+### You can watch our content on:
 [YouTube](https://youtube.com/@BlastcastYT) and the Blastcast Player.
 
-You can also watch our parent commpany's content on:
-
+### You can also watch our parent commpany's content on:
 [YouTube](https://youtube.com/@Secisit).
