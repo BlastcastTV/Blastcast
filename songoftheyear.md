@@ -1,5 +1,5 @@
 # Song of the Year
-Welcome to the official page for the Blastcast Song of the Year. If you would like to find out more about this page, click [here](https://secisit.com/legal/blastcast/soty)).
+Welcome to the official page for the Blastcast Song of the Year. If you would like to find out more about this page, click [here](https://secisit.com/legal/blastcast/soty).
 
 ## Song of the Year 2024
 This years Song of the Year award goes to:
