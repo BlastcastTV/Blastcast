@@ -3,7 +3,7 @@
 ## What is Scamming the Scammers?
 Scamming the Scammers is a web-show from Secisit and it's a show where we call scammers around the world and mess around with them.
 
-## What age raiting is this show?
+## What age rating is this show?
 This show is an 18+ show, this is because it may contain:
 
 - Slurs
