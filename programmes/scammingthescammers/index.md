@@ -14,4 +14,4 @@ This show is an 18+ show, this is because it may contain:
 If you have a question about this show, you can send your questions to scammingthescammers@blastcast.co.uk.
 
 ## Where can I watch this show?
-You can watch this show on the Blastcast Player and on our [YouTube](https://youtube.com/@Blastcast) channel.
+You can watch this show on the Blastcast Player and on our [YouTube](https://youtube.com/@BlastcastYT) channel.
