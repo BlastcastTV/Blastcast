@@ -20,7 +20,7 @@ You can find out more about our programmes [here](https://blastcast.co.uk/progra
 ### You can watch our content on:
 [YouTube](https://youtube.com/@BlastcastYT) and the Blastcast Player.
 
-### You can also watch our parent commpany's content on:
+### You can also watch our parent company's content on:
 [YouTube](https://youtube.com/@Secisit).
 
 ## Song of the Year
