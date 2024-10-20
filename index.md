@@ -22,3 +22,6 @@ You can find out more about our programmes [here](https://blastcast.co.uk/progra
 
 ### You can also watch our parent commpany's content on:
 [YouTube](https://youtube.com/@Secisit).
+
+## Song of the Year
+You can find the latest Song of the Year [here](https://blastcast.co.uk/songoftheyear). Voting for Song of the Year 2025 will start soon.
