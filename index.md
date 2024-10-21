@@ -22,6 +22,9 @@ You can find out more about our programmes [here](https://blastcast.co.uk/progra
 ### You can watch our content on:
 [YouTube](https://youtube.com/@BlastcastYT) and the Blastcast Player.
 
+## Contact Us
+If you'd like to contact us, please click [here](https://secisit.com/contact).
+
 ### You can also watch our parent company's content on:
 [YouTube](https://youtube.com/@Secisit).
 
