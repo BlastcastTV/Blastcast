@@ -4,7 +4,7 @@ Oh hey there! You've landed on the official website for Blastcast. We're a [Seci
 ## Who are we?
 We're a television company that was founded in 2024 by [Secisit](https://secisit.com). 
 
-You can find out more about our parent company's mission [here](https://secisit.com/ourmission)
+You can find out more about our parent company's mission [here](https://secisit.com/ourmission).
 
 ## Blogs
 If you'd like to find out more about what our parent company is doing, you can find out here:
