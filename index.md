@@ -30,3 +30,6 @@ If you'd like to contact us, please click [here](https://secisit.com/contact).
 
 ## Song of the Year
 You can find the latest Song of the Year [here](https://blastcast.co.uk/songoftheyear). Voting for Song of the Year 2025 will start soon.
+
+## Staff
+If you're a Secisit or Blastcast staff member, click [here](https://secisitintranet.sharepoint.com) to get access to our Staff Portal.
